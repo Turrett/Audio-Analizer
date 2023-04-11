@@ -1,0 +1,22 @@
+{
+  "name": "audioanalizer",
+  "version": "1.0.0",
+  "description": "a simple test on audio analyzing for visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turrett/Audio-Analizer.git"
+  },
+  "keywords": [
+    "Audio"
+  ],
+  "author": "Luca Turretti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turrett/Audio-Analizer/issues"
+  },
+  "homepage": "https://github.com/Turrett/Audio-Analizer#readme"
+}
